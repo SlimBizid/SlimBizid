@@ -17,5 +17,5 @@ Full Stack Intern at [Anypli](https://www.linkedin.com/company/anypli/) Jul - Au
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,laravel,nextjs,tailwind,ts,,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=java,react,laravel,nextjs,tailwind,ts,azure,docker" />
 </p>
