@@ -2,6 +2,10 @@
 
 Full Stack Intern at [Anypli](https://www.linkedin.com/company/anypli/) Jul - August 25
 
+SWE Intern at Autoinspec Jul - Sept 26
+
+SWE at Autoinspec Sept 26 - present
+
 ## Live Projects
 
 [LolStatDuel](https://lolstatduel.com) - Web-based game featuring League of Legends characters, with real-time leaderboard through Supabase. Built with Next.js, Tailwind & Shadcn.
@@ -10,12 +14,9 @@ Full Stack Intern at [Anypli](https://www.linkedin.com/company/anypli/) Jul - Au
 
 ## Currently Learning
 
-- Advanced React
-- C++
-- Social Engineering
-- Absurdism
-
+- Advanced SQL
+- System Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,laravel,nextjs,tailwind,ts,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=java,react,laravel,nextjs,tailwind,ts,azure,docker,nestjs" />
 </p>
