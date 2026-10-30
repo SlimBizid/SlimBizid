@@ -2,9 +2,9 @@
 
 Full Stack Intern at [Anypli](https://www.linkedin.com/company/anypli/) Jul - August 25
 
-SWE Intern at Autoinspec Jul - Sept 26
+SWE Intern at Auto sans risque Jul - Sept 26
 
-SWE at Autoinspec Sept 26 - present
+SWE at Auto sans risque Sept 26 - present
 
 ## Live Projects
 
